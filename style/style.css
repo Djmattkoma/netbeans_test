@@ -1,0 +1,18 @@
+body{
+    background-color: #00bfff
+}
+
+.tabla{
+    width: 50%;
+    border: 3px solid #fffff;
+}
+
+td {
+  border: 1px solid #fffff;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: #fffff;
+}
